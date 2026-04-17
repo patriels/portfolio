@@ -345,7 +345,7 @@ h2 {
 .paper-link:hover { background: var(--forest); color: #fff; }
 
 /* ── RESEARCH PROJECTS ── */
-.research-projects { padding-top: 3rem; border-top: 1px solid var(--sand); }
+.research-projects { margin-top: 4rem; padding-top: 3rem; }
 .research-projects-title {
   font-family: 'Lora', serif;
   font-size: clamp(1.4rem, 2.5vw, 1.9rem);
